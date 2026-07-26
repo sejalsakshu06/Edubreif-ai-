@@ -2,7 +2,6 @@
 
 An intelligent Document Intelligence Assistant built with Streamlit — upload documents and get automatic RAG-based Q&A, NLP insights, study assets, research extraction, and exportable reports using the free Groq API.
 
-🚀 **Live Demo:** [Try the App](https://breifbot.streamlit.app/)
 
 ## Features
 
@@ -64,17 +63,6 @@ Streamlit UI
 pytest tests/ -v
 ```
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/initial.png" width="45%"/>
-  <img src="screenshots/after_upload.png" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/nlp_insights.png" width="45%"/>
-  <img src="screenshots/report.png" width="45%"/>
-</p>
 
 ## License
 
